@@ -1,4 +1,4 @@
-import {TnsOaProvider, TnsOaProviderGoogle, TnsOaProviderOptionsGoogle} from "nativescript-oauth2/providers";
+import {TnsOaProvider} from "nativescript-oauth2/providers";
 import {configureTnsOAuth} from "nativescript-oauth2";
 import {isAndroid} from "tns-core-modules/platform";
 import {OktaProviderTns, TnsOaMyCustomProviderOptions} from "@src/app/providers/oktaProvider";

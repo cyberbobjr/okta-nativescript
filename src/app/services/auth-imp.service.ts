@@ -5,6 +5,4 @@ import {AuthService} from "@src/app/services/auth-service";
     providedIn: 'root'
 })
 export class AuthImpService extends AuthService {
-    doLogin(): void {
-    }
 }

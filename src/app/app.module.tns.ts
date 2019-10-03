@@ -21,7 +21,7 @@ import {NativeScriptHttpModule} from "nativescript-angular";
         AppComponent,
         HomeComponent,
         LoginComponent,
-        ProtectedComponent,
+        ProtectedComponent
     ],
     imports: [
         NativeScriptModule,
